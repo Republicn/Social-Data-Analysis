@@ -1,4 +1,4 @@
-# Social-Data-Analysis
+# Sentiment Analysis
 
 This project is an implementation of
 [Sentiment Analysis of Microblog Data Streams](https://drive.google.com/drive/u/1/folders/1Mi0jOX-078q7qlJKZkrp6-y4eCBaFztZ) lab.
